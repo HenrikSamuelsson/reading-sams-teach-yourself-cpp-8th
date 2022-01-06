@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.pdb
+*.ilk
+
+# Visual Studio Code IDE specific
+.vscode/
