@@ -13,5 +13,7 @@ A comment can be longer than one line by starting the comment with `/*` and endi
 Example of a multi line comment:
 
 ```cpp
-/* A detailed comment with a lot of text so that it does not fit in one line and instead spans over multiple lines. The comment hence uses both a start comment symbol and a end comment symbol. */
+/* A detailed comment with a lot of text so that it does not fit in one line and instead needs to span over multiple lines. The comment hence uses both a start comment symbol and a end comment symbol. 
+
+The compiler will ignore all text between the comment symbols. */
 ```
