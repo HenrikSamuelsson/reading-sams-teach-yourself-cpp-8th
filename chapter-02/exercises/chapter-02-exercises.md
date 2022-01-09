@@ -16,4 +16,4 @@ A fixed version of the program discussed in Exercise 1 is found [here](./stycpp8
 
 ## 3
 
-
+A program to demonstrate subtraction and multiplication is found [here](./stycpp8th-chapter-2-exercise-3.cpp).
