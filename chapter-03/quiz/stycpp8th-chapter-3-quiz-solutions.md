@@ -1,6 +1,6 @@
-# Quiz Solution Chapter 4
+# Quiz Solution Chapter 3
 
-Solution to the quiz in chapter 4 of the book Sams Teach Yourself C++ - 8th Edition.
+Solution to the quiz in chapter 3 of the book Sams Teach Yourself C++ - 8th Edition.
 
 ## 1
 
