@@ -10,4 +10,4 @@ Another difference is that an unsigned integer can hold larger numbers than the 
 
 ## 2
 
-Prefer using `const` qualified objects instead of `#define` macros. The problem with macros is that they do not obey the C++ scope and type rules. Not being type safe means that errors can sneak in when using a macro that the compiler could have spotted automatically if a `const` qualified object had been used.
+Prefer using `const` qualified objects instead of `#define` macros. The problem with macros is that they do not obey the C++ scope and type rules. This leads to that errors can sneak in when using a macro that the compiler could have spotted automatically if a `const` qualified object had been used.
