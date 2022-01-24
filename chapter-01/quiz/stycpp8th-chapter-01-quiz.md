@@ -1,6 +1,6 @@
-# Exercise Solutions Chapter 1
+# Quiz Solution Chapter 1
 
-Solutions to exercises from chapter 1 in the book Sams Teach Yourself C++ in One Hour a Day - 8th edition.
+Solution to the quiz in chapter 1 of the book Sams Teach Yourself C++ - 8th Edition.
 
 ## 1
 
