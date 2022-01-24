@@ -8,4 +8,4 @@ The main difference between an interpreter and a compiler is in how the human re
 
 ## 2
 
-The linker is part of building a C++ program and will run after the compiler is done. The input to the linker is the output from the compiler. So one or more object files, and also eventually needed library object files is the input for the linker. The linker will integrate these files together into to an executable file that can be run by the machine that the program is written for.
+The linker is part of the set of tools used when building a C++ program and will run after the compiler is done. The input to the linker is the output from the compiler meaning that one or more object files, and also eventually needed library object files, is the linker input. The linker will integrate the object files together into to one executable file that can be run by the machine that the program is written for.
