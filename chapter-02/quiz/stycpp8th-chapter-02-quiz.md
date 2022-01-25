@@ -1,5 +1,7 @@
 # Quiz Solution Chapter 2
 
+Solution to the quiz in chapter 2 of the book Sams Teach Yourself C++ - 8th Edition.
+
 ## 1
 
 The problem in declaring `Int main()` in C++ is that the built-in integer type is called `int` and not `Int`.
