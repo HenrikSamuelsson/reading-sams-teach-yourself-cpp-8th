@@ -1,5 +1,7 @@
 # Exercises Chapter 1
 
+Solutions to the exercises in chapter 1 of the book Sams Teach Yourself C++ - 8th Edition.
+
 ## 1
 
 The [program](./exercise-01-02.cpp) in this exercise does arithmetic calculations and should print out the result.
