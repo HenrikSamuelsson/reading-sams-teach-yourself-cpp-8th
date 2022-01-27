@@ -14,6 +14,6 @@ To perform a case-insensitive comparison of two strings one can proceed as follo
 
 2. Make the first string copy all lower case. This can be done by iterating over all the characters (`c`) in the string and call `::tolower(c)` on each character.
 
-3. Repeat step 1. for the second string to also make this string all lower case.
+3. Repeat step 1. for the second string copy to also make this string all lower case.
 
 4. The two string copies can now be compared using the `==` operator, i.e something like this `if (copy1 == copy2)`.
