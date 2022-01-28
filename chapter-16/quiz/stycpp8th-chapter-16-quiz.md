@@ -20,7 +20,7 @@ To perform a case-insensitive comparison of two strings one can proceed as follo
 
 ## 3
 
-The C++ STL string and a C-style string are both used to represent a sequence of characters i.e. a text but the underlying representation is different as well as the ways of working.
+The C++ STL string and a C-style string are both used to represent a sequence of characters i.e. a text, but the underlying representation is different as well as the ways of working.
 
 A C-style string is simply based on array of characters terminated by a special character called the null character and when working with C-style strings so are we actually handling raw pointers. C-style strings have been proven to be error prone since it is easy to forget about the null character. C-style strings also requires either to know the maximum size in advance and use static memory or being forced to manually handle memory allocation, resizing and copying of strings.
 
