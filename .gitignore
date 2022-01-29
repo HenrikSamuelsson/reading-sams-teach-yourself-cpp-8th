@@ -35,3 +35,9 @@
 
 # Visual Studio Code IDE specific
 .vscode/
+
+# Bazel build
+bazel-bin/
+bazel-out/
+bazel-reading-sams-teach-yourself-cpp-8th/
+bazel-testlogs/
